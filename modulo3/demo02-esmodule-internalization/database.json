@@ -1,13 +1,1 @@
-[
-  {
-    "id": 1,
-    "vehicles": [
-      "Motocicleta",
-      "Carro",
-      "Caminhão"
-    ],
-    "kmTraveled": 988,
-    "from": "2019-01-01",
-    "to": "2020-01-01"
-  }
-]
+[{"id":1,"vehicles":["Motocicleta","Carro","Caminhão"],"kmTraveled":988,"from":"2019-01-01","to":"2020-01-01"},{"id":"2","vehicles":["Bike","Avião"],"kmTraveled":"21000","from":"2023-01-01","to":"2023-01-31"},{"id":"3","vehicles":["patinete","mobilete","patins","tenisRoda"],"kmTraveled":"550","from":"2022-01-01","to":"2023-01-01"}]
